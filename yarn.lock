@@ -552,10 +552,10 @@ isexe@^2.0.0:
   resolved "https://registry.yarnpkg.com/isexe/-/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
   integrity sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==
 
-jquery-bridget@^2:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/jquery-bridget/-/jquery-bridget-2.0.1.tgz#784d17a85e641780c5d89ac3f8a7eb47b0bce1fc"
-  integrity sha512-SDc/6cG5bdhBTvFnNsU3EddwG2YAKavn77knc6OsUEDW+8eisALBbdz83TOws3zFWcDYfEKr4qw2mffcUkX6+w==
+jquery-bridget@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/jquery-bridget/-/jquery-bridget-3.0.1.tgz#02e208cf8772b4dd8044797b68242b74dbd64aa4"
+  integrity sha512-mjpdeObQTYlDOQWU8/JyHE3mZqwIFXY2ayaj/jYb3WoJWTIkP5MdN3SMPQC1jo6U31KD7LPJWuhVI+L+4Vqc2A==
   dependencies:
     jquery ">=1.4.2 <4"
 

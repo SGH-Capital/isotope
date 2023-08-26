@@ -27,7 +27,7 @@
     "eslint": "^8.48.0",
     "eslint-plugin-metafizzy": "^2.0.1",
     "jquery": "^3.3.1",
-    "jquery-bridget": "^2",
+    "jquery-bridget": "^3.0.1",
     "jshint": "^2.11.0",
     "qunitjs": "^1.15",
     "requirejs": "^2.3.6",
