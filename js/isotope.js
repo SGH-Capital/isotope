@@ -420,7 +420,7 @@ var trim = String.prototype.trim ?
   // check if sortBys is same as start of sortHistory
   proto._getIsSameSortBy = function( sortBys ) {
     for ( var i = 0; i < sortBys.length; i++ ) {
-      if ( sortBys[i] != this.sortHistory[i] ) {
+      if ( sortBys[i] !== this.sortHistory[i] ) {
         return false;
       }
     }

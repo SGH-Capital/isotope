@@ -61,7 +61,7 @@
   // point to mode options for fitWidth
   var _getOption = proto._getOption;
   proto._getOption = function( option ) {
-    if ( option == 'fitWidth' ) {
+    if ( option === 'fitWidth' ) {
       return this.options.isFitWidth !== undefined ?
         this.options.isFitWidth : this.options.fitWidth;
     }

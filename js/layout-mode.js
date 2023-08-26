@@ -72,7 +72,7 @@
     // check that this.size and size are there
     // IE8 triggers resize on body size change, so they might not be
     var hasSizes = this.isotope.size && size;
-    return hasSizes && size.innerHeight != this.isotope.size.innerHeight;
+    return hasSizes && size.innerHeight !== this.isotope.size.innerHeight;
   };
 
   // ----- measurements ----- //

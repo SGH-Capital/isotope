@@ -43,7 +43,7 @@ QUnit.test( 'arrangeComplete', function( assert ) {
       var ticks = 0;
       function onArrangeComplete() {
         ticks++;
-        if ( ticks == 2 ) {
+        if ( ticks === 2 ) {
           assert.ok( true, 'after layout mid-way thru transition' );
           iso.off( 'arrangeComplete', onArrangeComplete );
           return next();
@@ -84,7 +84,7 @@ QUnit.test( 'arrangeComplete', function( assert ) {
       var ticks = 0;
       function onArrangeComplete() {
         ticks++;
-        if ( ticks == 2 ) {
+        if ( ticks === 2 ) {
           assert.ok( true, 'after layout mid-way thru transition, with stagger' );
           iso.off( 'arrangeComplete', onArrangeComplete );
           iso.options.stagger = 0;
