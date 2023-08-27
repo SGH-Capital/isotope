@@ -742,7 +742,7 @@ queue-microtask@^1.2.2:
   resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
 
-qunitjs@^1.15:
+qunitjs@^1.23.1:
   version "1.23.1"
   resolved "https://registry.yarnpkg.com/qunitjs/-/qunitjs-1.23.1.tgz#1971cf97ac9be01a64d2315508d2e48e6fd4e719"
   integrity sha512-HxmbULxwG6wmQ9no6RJVk2/g2O4uycAN1K00VDD6nowUHyDd8NzG6ESm4WOUJ5Mrty44QQl6+NHAalYvi/pakw==

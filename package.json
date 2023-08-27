@@ -29,7 +29,7 @@
     "jquery": "^3.3.1",
     "jquery-bridget": "^3.0.1",
     "jshint": "^2.11.0",
-    "qunitjs": "^1.15",
+    "qunitjs": "^1.23.1",
     "requirejs": "^2.3.6",
     "uglify-js": "^3.17.4"
   },
